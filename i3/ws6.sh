@@ -1,0 +1,1 @@
+../../.dotfiles/i3/.config/i3/ws6.sh

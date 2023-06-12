@@ -1,0 +1,1 @@
+../../.dotfiles/i3/.config/i3/alternating_layouts.py
